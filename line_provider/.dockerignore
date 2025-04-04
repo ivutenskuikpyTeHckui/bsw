@@ -1,0 +1,41 @@
+# Исключение файлов и папок системы контроля версий
+.git
+.gitignore
+.gitattributes
+
+
+# Исключение файлов и папок Docker
+# docker-compose.yml
+# Dockerfile
+# .docker
+# .dockerignore
+
+# Исключение скомпилированных Python-файлов и кешей
+__pycache__/
+*.py[cod]
+
+
+# Исключение файлов и папок, связанных с упаковкой и дистрибуцией
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+
+# Исключение файлов и папок виртуальных окружений
+# .env
+.venv/
+
+.vscode/
+

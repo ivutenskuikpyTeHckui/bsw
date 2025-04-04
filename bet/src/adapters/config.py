@@ -1,0 +1,15 @@
+DB_HOST = "postgres_bet"
+DB_PORT = "5433"
+DB_NAME = "bet"
+DB_USER = "bet_user"
+DB_PASS = "secret_pass"
+
+RABBITMQ_USER = "guest"
+RABBITMQ_PASS = "guest"
+RABBITMQ_HOST = "rabbitmq"
+RABBITMQ_PORT = "5672"  
+
+REDIS_HOST = "redis"
+REDIS_PORT = "6379"
+REDIS_DB = "0"
+REDIS_PASSWORD = "None"

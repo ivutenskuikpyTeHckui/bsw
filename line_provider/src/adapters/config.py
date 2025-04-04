@@ -1,0 +1,11 @@
+DB_HOST = "postgres_line"
+DB_PORT = "5432"
+DB_NAME = "line"
+DB_USER = "line_user"
+DB_PASS = "secret_pass"
+SECRET_AUTH = "SECRETROOM"
+
+RABBITMQ_USER = "guest"
+RABBITMQ_PASS = "guest"
+RABBITMQ_HOST = "rabbitmq"
+RABBITMQ_PORT = "5672"  
